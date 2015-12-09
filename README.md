@@ -10,4 +10,4 @@
 
 ***
 
-> 本项目版权归周健(summychou@gmail.com)和赵颖峰所有
+> 本项目版权归周健(summychou@gmail.com)和赵颖锋所有
